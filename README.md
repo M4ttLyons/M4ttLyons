@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Matt271102
-- 👀 I’m interested in backend software developments
-- 🌱 I’m currently learning about app development using react
-- 📫 How to reach me: https://www.linkedin.com/in/matthew-lyons-79912a237/
+- 👋 Hi, I’m @M4ttLyons
+- 👀 I’m interested in backend software development.
+- 🌱 I’m currently learning about app development using Kotlin
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/m4tt-lyons/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a pet cat named Joeseph
-
